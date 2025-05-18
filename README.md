@@ -1,6 +1,6 @@
 # **2025年3月：一分钟教会你国内如何使用Grok3！完整指南**
 
-**更新时间：2025/03/25**
+**更新时间：2025/05/19**
 
 > 想体验 **Grok 中文版**，支持最新 **Grok 3** 模型和多功能应用？本篇特别为国内用户准备，涵盖Grok中文版的使用方法以及国内镜像网站推荐，让你快速上手使用智能AI！
 
@@ -11,11 +11,9 @@
 
 | **网站名称**         | **官网地址**                                | **支持功能**                 | **推荐亮点**                        |
 |-----------------------|-------------------------------------------|-----------------------------|-----------------------------------|
-| **YiXia AI**          | [chat.yixiaai.com](https://chat.yixiaai.com) | 支持GPT-4、Grok-3、DeepSeek、Claude | 稳定流畅，支持一站式中文AI服务      |
-| **蓝鲸镜像站**        | [chat.lanjing.ai](https://chat.lanjing.ai) | 全面支持Grok和GPT系列        | 界面友好，适合初学者快速上手        |
+| **Xsimple AI**          | [xsimplechat.com](https://xsimplechat.com) | 支持GPT-4、Grok-3、DeepSeek、Claude | 稳定流畅，支持一站式中文AI服务      |
+| **蓝鲸镜像站**        | [chat.lanjing.pro](https://chat.lanjing.pro) | 全面支持Grok和GPT系列        | 界面友好，适合初学者快速上手        |
 | **中文ChatGPT站点**   | [chatgpt-chinese.com](https://chatgpt-chinese.com) | 支持全系列GPT模型、DeepSeek | 专注中文优化，长期持续更新           |
-| **Grok中文版客户端下载**    | [客户端下载](https://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi) | 支持各种AI模型                | 本地客户端，速度更快功能更强大       |
-| **Edge AI插件**       | [插件地址](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | 和浏览器结合度高             | 轻量插件即可实现对话全场景覆盖        |
 
 从免费额度到付费选项，上述站点几乎满足不同层次的用户需求！
 
@@ -53,7 +51,7 @@ Grok 不仅是AI助手，更是个人生产力提升的必备工具！
 ## **如何快速上手使用 Grok 中文版**
 
 ### **方法一：通过镜像站点直接体验**
-1. **访问镜像站地址**：选择上表推荐站点之一，如 [chat.lanjing.ai](https://chat.lanjing.ai)。
+1. **访问镜像站地址**：选择上表推荐站点之一，如 [chat.lanjing.pro](https://chat.lanjing.pro)。
 2. **注册或直接使用**：
    - **邮箱注册**：填写国内邮箱快速完成注册。
    - **免注册体验**：部分站点直接进入对话界面。
