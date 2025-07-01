@@ -1,6 +1,5 @@
-# **2025年3月：一分钟教会你国内如何使用Grok3！完整指南**
-
-**更新时间：2025/05/19**
+# **2025年7月：一分钟教会你国内如何使用Grok3！完整指南**
+**更新时间：2025/07/02**
 
 > 想体验 **Grok 中文版**，支持最新 **Grok 3** 模型和多功能应用？本篇特别为国内用户准备，涵盖Grok中文版的使用方法以及国内镜像网站推荐，让你快速上手使用智能AI！
 
@@ -11,7 +10,7 @@
 
 | **网站名称**         | **官网地址**                                | **支持功能**                 | **推荐亮点**                        |
 |-----------------------|-------------------------------------------|-----------------------------|-----------------------------------|
-| **Xsimple AI**          | [xsimplechat.com](https://xsimplechat.com) | 支持GPT-4、Grok-3、DeepSeek、Claude | 稳定流畅，支持一站式中文AI服务      |
+| **Xsimple AI**          | [xsimplechat.com](https://xsimplechat.com) | 支持Grok、GPT-4、Grok-3、DeepSeek、Claude | 稳定流畅，支持一站式中文AI服务      |
 | **蓝鲸镜像站**        | [chat.lanjing.pro](https://chat.lanjing.pro) | 全面支持Grok和GPT系列        | 界面友好，适合初学者快速上手        |
 | **中文ChatGPT站点**   | [chatgpt-chinese.com](https://chatgpt-chinese.com) | 支持全系列GPT模型、DeepSeek | 专注中文优化，长期持续更新           |
 
